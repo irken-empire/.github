@@ -1,47 +1,82 @@
 ---
 name: Release
-about: Prepare for a new Release
-labels: release, documentation
+about: It's shipping time!
+title: "[RELEASE]"
+labels: release
+assignees: ''
 
 ---
 
-<!-- Fill in the following Release checklist -->
-
-# Release checklist
+## Release checklist
   
 - [ ] Tests passed
 - [ ] Documentation updated
-- [ ] Release published
 - [ ] Project website updated
+- [ ] Release published
 
 ## Release summary
 
-<!-- A short summary of the high points for this release -->
+<!--
+A short summary of the high points for this release
+-->
+
+This release includes;
+
+- Something new was added
+- Something old was fixed
 
 ## Breaking Changes
 
-<!-- Breaking changes which should be called to attention -->
+<!--
+Breaking changes which should be called to attention
+-->
+
+- None
 
 ## New Features
 
-<!-- New Features to be called to attention -->
+<!--
+New Features to be called to attention
+-->
+
+- Adds amazing feature X
 
 ## Bug Fixes
 
-<!-- Previous Bugs squashed -->
+<!--
+Previous Bugs squashed
+-->
+
+- Issue #X
 
 ## Improvements
 
-<!-- Improvements made -->
+<!--
+Improvements made
+-->
+
+- None
 
 ## Other Changes
 
-<!-- Other changes that don't fit into the other categories -->
+<!--
+Other changes that don't fit into the other categories
+-->
+
+- None
 
 ## Upgrade Steps
 
-<!-- Any specific changes or steps for this release -->
+<!--
+Any specific changes or steps for this release
+-->
+
+- N/A
 
 ## Rollback Plan
 
-<!-- How to rollback if this upgrade goes bad -->
+<!--
+How to rollback if this upgrade goes bad
+-->
+
+- N/A

@@ -5,7 +5,7 @@
 
 # Add 'documentation' label to markdown file changes
 Documentation:
-  - docs/**
+  - "docs/**"
   - "*.md"
 
 # Add 'go' label to all go file changes
@@ -36,3 +36,8 @@ Infrastructure:
 Pulumi:
   - "infra/**"
 
+# Add 'Terraform' label to Infra As Code changes
+Terraform:
+  - "*.tf"
+  - "*.tfvars"
+  - ".terraform.lock.hcl"

@@ -1,8 +1,8 @@
 ---
 name: Feature request
 about: Suggest an idea for this project
-title: ''
-labels: feature, suggestion
+title: '[FEATURE]'
+labels: feature
 assignees: ''
 
 ---
@@ -13,22 +13,33 @@ Thank you for requesting a new feature!
 Please fill in as much of template below as you can.
 -->
 
-### Summary
+## Summary
 
-<!-- Provide a short summary of the feature -->
+<!--
+Provide a short summary of the feature
+-->
 
-### Is this feature related to a problem
+## Is this feature related to a problem
 
-<!-- A clear and concise description of what the problem is. Ex. I'm always frustrated when [...] -->
+<!--
+* A clear and concise description of what the problem is.
+* For example, I'm always frustrated when [...]
+-->
 
-### Describe the solution
+## Describe the solution
 
-<!-- A clear and concise description of what you want to happen. -->
+<!--
+* A clear and concise description of what you want to happen.
+-->
 
-### Describe alternatives you've considered
+## Describe alternatives you've considered
 
-<!-- A clear and concise description of any alternative solutions or features you've considered. -->
+<!--
+* A clear and concise description of any alternative solutions or features you've considered.
+-->
 
-### Additional context
+## Additional context
 
-<!-- Add any other context or screenshots about the feature request here. -->
+<!--
+Add any other context or screenshots about the feature request here.
+-->

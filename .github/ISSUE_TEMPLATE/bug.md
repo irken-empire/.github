@@ -1,7 +1,7 @@
 ---
 name: Bug report
 about: Create a report to help us improve
-title: ''
+title: '[BUG]'
 labels: bug
 assignees: ''
 
@@ -15,22 +15,32 @@ Please fill in as much of the template below as you can.
 If possible, please provide commands or code that demonstrates the problem, keeping it as simple and free of external dependencies as you can.
 -->
 
-### Description
+## Description
 
-<!-- A clear and concise description of what the bug is. -->
+<!--
+A clear and concise description of what the bug is.
+-->
 
-### Steps to Reproduce
+## Steps to Reproduce
 
-<!-- Describe the steps to reproduce the behavior -->
+<!--
+Describe the steps to reproduce the behavior
+-->
 
-### Expected behavior
+## Expected behavior
 
-<!-- Describe what what you expected to happen -->
+<!--
+Describe what what you expected to happen
+-->
 
-### Screenshots
+## Screenshots
 
-<!-- If applicable, add screenshots to help explain your problem. -->
+<!--
+If applicable, add screenshots or formatted command output to help explain your problem.
+-->
 
-### Additional context
+## Additional context
 
-<!-- Add any other context about the problem here. -->
+<!--
+Add any other context about the problem here.
+-->
